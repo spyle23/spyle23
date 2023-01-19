@@ -1,16 +1,7 @@
 # spyle23
 
-## hello I'm a student at MISA and I'm interresting in  Cybersecurity
+## hello I'm a student at MISA
 
-
-<table align="center">
-    <tr>
-        <td><img src="https://academy.avast.com/hubfs/New_Avast_Academy/Hackers/Hacker-Thumb-a1.png" alt="coding" width=360 height=270></td>
-    </tr>
-    <tr>
-        <td><p align="center">It's a game against system</p></td>
-    </tr>
-</table>
 
 <table align="center">
     <tr>
