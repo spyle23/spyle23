@@ -1,6 +1,6 @@
 # spyle23
 
-## hello I'm a student at MISA
+## Computer Science student, I'll do my best 
 
 
 <table align="center">
