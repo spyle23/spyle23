@@ -28,14 +28,6 @@
 
 ---
 
-###  Projets en vedette  
-| Projet | Description |
-|--------|-------------|
-| **Projet A** | Courte description, liens |
-| **Projet B** | Courte description, liens |
-
----
-
 ### ⚡ Compétences & Tech Stack  
 
 #### 🎨 Frontend
