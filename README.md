@@ -16,9 +16,15 @@
 ---
 
 ###  GitHub Stats  
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=spyle23&show_icons=true&theme=dark" alt="Spyle23's GitHub Stats" />  
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spyle23&layout=compact&theme=dark" alt="Top Languages" />  
-<br clear="both"/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=spyle23&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spyle23&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=spyle23&theme=radical&hide_border=true" />
+</p>
 
 ---
 
