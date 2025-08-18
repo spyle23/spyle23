@@ -1,66 +1,42 @@
-# spyle23
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi%2C%20I'm%20Spyle23!&animation=fadeIn&type=waving&color=gradient&height=120"/>
+</p>
 
-## Computer Science student, I'll do my best 
+###  À propos de moi  
+Étudiant en informatique passionné par le **développement Web, mobile et desktop**.  
+**Never give up about my ambitions !!**
 
+---
 
-<table align="center">
-    <tr>
-        <td>
-            <h2>🔭️  <u><b>Interested in</b></u></h2>
-            <ul>
-                <li>🎮️ video game</li>
-                <li>🌐️ Web Development</li>
-                <li>🔐️ cybersecurity</li>
-            </ul>
-        </td>
-        <td><img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="coding" width=360 height=270></td>
-    </tr>
-    <tr>
-        <td><img src="https://media2.giphy.com/media/PGOfNH0KhpvZ1ssAw1/giphy.gif" alt="game and anime" width=367 height=193></td>
-        <td>
-            <h2>✨️ <u><b>Outlets</b></u></h2>
-            <ul>
-                <li>⚽️ football</li>
-                <li>📺️ Anime and Manga</li>
-                <li>🎮 gaming</li>
-            </ul>
-        </td>
-    </tr>
-</table>
-<hr>
-<table align="center">
-    <tr>
-        <td>
-            <h2 align="center">💻️  <b>Programming languages</b></h2><br>
-            <div align="center">
-            <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-            <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-            </div><div align="center">
-            <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript">
-            <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php">
-            </div>
-        </td>
-        <td rowspan="2">
-            <h2 align="center">🛠️ <b>Tools</b></h2><br>
-            <div align="center">
-            <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
-            <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab-ci">
-            </div><div align="center">
-            <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="sass">
-            <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
-            <img src="assets/sdl.png" alt="sdl">
-            </div><div align="center">
-            <img src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode">
-            <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="sublime-text">
-            <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git">
-            </div>
-        </td>
-    </tr>
-    <tr>
-        <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spyle23&theme=tokyonight&layout=compact&langs_count=5" alt="top languages"></td>
-    </tr>
-</table>
-<hr>
-<h2 align="center"><code>have a nice day!</code> 😁️</h1>
+###  Me contacter  
+[![Website](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://myportfolio.spyle23.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jean-marie-andriatiana-b1480221a)  
+[![Facebook](https://img.shields.io/badge/Facebook-Join-blue?logo=facebook&style=for-the-badge)](https://www.facebook.com/profile.php?id=100010913109365)
 
+---
+
+###  GitHub Stats  
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=spyle23&show_icons=true&theme=dark" alt="Spyle23's GitHub Stats" />  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spyle23&layout=compact&theme=dark" alt="Top Languages" />  
+<br clear="both"/>
+
+---
+
+###  Projets en vedette  
+| Projet | Description |
+|--------|-------------|
+| **Projet A** | Courte description, liens |
+| **Projet B** | Courte description, liens |
+
+---
+
+###  Compétences & Tech Stack  
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+…et d’autres selon ta stack
+
+---
+
+> **Fun fact** : Je suis motivé par chaque ligne de code écrite et j’apprends sans cesse !
 
