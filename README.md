@@ -66,7 +66,7 @@
 ---
 
 ---
-
+### 🌟 contributions
 
 ![Snake animation](https://github.com/spyle23/spyle23/blob/output/snake.svg)
 
