@@ -65,5 +65,13 @@
 
 ---
 
+---
+
+
+![Snake animation](https://github.com/spyle23/spyle23/blob/output/snake.svg)
+
+
+---
+
 > **Fun fact** : Je suis motivé par chaque ligne de code écrite et j’apprends sans cesse !
 
