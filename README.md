@@ -29,7 +29,7 @@ Depuis 2022, je conçois et livre en remote des **SaaS, plateformes de réservat
 
 ### 🛠️ Ce que je peux construire pour vous
 
-| | |
+| Service | Technologies |
 |---|---|
 | 🧩 **SaaS & applications web** | Next.js, React, multi-tenant, tableaux de bord |
 | 📅 **Réservation & paiement** | Stripe, API Amadeus, créneaux temps réel, zéro double réservation |
